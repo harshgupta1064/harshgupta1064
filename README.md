@@ -1,4 +1,4 @@
-### Hi there! I'm [Harsh Gupta] 👋
+### Hi there! I'm Harsh Gupta 👋
 
 I'm a passionate **Android Developer** with a focus on **Kotlin, Jetpack Compose, MVVM, and API integrations**. I love building innovative apps and exploring new technologies.
 
